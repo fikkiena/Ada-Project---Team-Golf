@@ -2,11 +2,14 @@
 
 Data Team Golf
  
-Amarachi Ejike F Team lead
+Amarachi Ejike F. Team lead 
+Data cleaning and Visualization
 
 Fikona Temiagin. Member
+Presentation slide and GitHub
 
 Amarachukwu Peace Ogbonna. Member
+Create submission link
 
 We were given an exam spreadsheet to clean, visualize and answer some questions.
 This task helped us solidfy our skills in analysing and we improved in our Ms excel and research skills
