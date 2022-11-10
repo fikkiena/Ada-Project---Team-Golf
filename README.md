@@ -9,7 +9,7 @@ Fikona Temiagin. Member
 Amarachukwu Peace Ogbonna. Member
 
 We were given an exam spreadsheet to clean, visuize and answer some questions.
-
+This task help us solidfy our skills in analysing and we improved in our Ms excel and research skills
 
 
 A link to our presentation slides
