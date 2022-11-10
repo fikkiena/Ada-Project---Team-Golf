@@ -18,3 +18,5 @@ https://docs.google.com/document/d/1YkECdWSQixi3DIhBRjAIYEEtBdsy7af1BDZR-60DogM/
 
 
 A link to our click up where the task was scheduled
+
+https://app.clickup.com/42083054/v/li/234264434
